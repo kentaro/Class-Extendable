@@ -14,6 +14,7 @@ my $build = Module::Build->new(
     requires             => {
         perl   => "$]",
         parent => '0',
+        'Class::Inspector' => "0",
     },
 
     no_index    => { 'directory' => [ 'inc' ] },
