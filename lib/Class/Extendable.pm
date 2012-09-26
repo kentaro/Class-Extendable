@@ -103,11 +103,11 @@ Kentaro Kuribayashi E<lt>kentarok@gmail.comE<gt>
 
 =head1 SEE ALSO
 
-= over 4
+=over 4
 
-= item * http://blog.livedoor.jp/dankogai/archives/50484421.html
+=item * http://blog.livedoor.jp/dankogai/archives/50484421.html
 
-= back
+=back
 
 =head1 LICENSE
 
